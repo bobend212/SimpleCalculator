@@ -148,7 +148,7 @@ namespace Calculator
 
         private void CalculateEquation()
         {
-            
+           
             this.Label.Text = ParseOperation();
            
             FocusInputText();
@@ -171,14 +171,86 @@ namespace Calculator
                     {
                         if (leftSide)
                             operation.LeftSide = AddNumberPart(operation.LeftSide, userInput[i]);
+                        else
+                            operation.RightSide = AddNumberPart(operation.RightSide, userInput[i]);
+                    }
+                    else if ("+-*/".Any(c => userInput[i] == c))
+                    {
+                        if (!leftSide)
+                        {
+                            var operatorType = GetOperationType(userInput[i]);
+                        }
+                        else
+                        {
+                            var operatorType = GetOperationType(userInput[i]);
+
+                            if (operation.LeftSide.Length == 0)
+                            {
+
+                                if (operatorType != OperationType.Minus)
+                                    throw new InvalidOperationException($"Operator (+ * / or more than one -) specified without any left side number");
+                            
+                                operation.LeftSide += userInput[i];   
+                            }
+                            else
+                            {
+                                operation.OperationType = operatorType;
+                                leftSide = false;
+                            }
+                        }
                     }
                 }
 
-                return string.Empty;
+                return CalculateOperation(operation);
             }
             catch (Exception ex)
             {
                 return $"Invalid equation. {ex.Message}";
+            }
+        }
+
+        private string CalculateOperation(Operation operation)
+        {
+            double left = 0;
+            double right = 0;
+
+            if (string.IsNullOrEmpty(operation.LeftSide) || !double.TryParse(operation.LeftSide, out left))
+                throw new InvalidOperationException($"Left side of the operation was not a number. {operation.LeftSide}");
+
+            if (string.IsNullOrEmpty(operation.RightSide) || !double.TryParse(operation.RightSide, out right))
+                throw new InvalidOperationException($"Right side of the operation was not a number. {operation.RightSide}");
+
+            try
+            {
+                switch(operation.OperationType)
+                {
+                    case OperationType.Add:
+                        return (left + right).ToString();
+
+                }
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+            return string.Empty;
+        }
+
+        private OperationType GetOperationType(char character)
+        {
+            switch(character)
+            {
+                case '+':
+                    return OperationType.Add;
+                case '-':
+                    return OperationType.Minus;
+                case '/':
+                    return OperationType.Multiply;
+                case '*':
+                    return OperationType.Divide;
+                default:
+                    throw new InvalidOperationException($"Unknown operator type { character }");
             }
         }
 

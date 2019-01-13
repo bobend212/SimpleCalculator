@@ -55,8 +55,8 @@
             // 
             // UserInputBox
             // 
-            this.UserInputBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.UserInputBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.UserInputBox.BackColor = System.Drawing.Color.DimGray;
             this.UserInputBox.Font = new System.Drawing.Font("Lucida Sans Unicode", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -69,8 +69,8 @@
             // 
             // TableLayoutButtons
             // 
-            this.TableLayoutButtons.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.TableLayoutButtons.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TableLayoutButtons.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.TableLayoutButtons.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("TableLayoutButtons.BackgroundImage")));
@@ -110,8 +110,8 @@
             // 
             // EqualButton
             // 
-            this.EqualButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.EqualButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.EqualButton.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.EqualButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("EqualButton.BackgroundImage")));
@@ -129,8 +129,8 @@
             // 
             // DotButton
             // 
-            this.DotButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.DotButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.DotButton.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.DotButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("DotButton.BackgroundImage")));
@@ -148,8 +148,8 @@
             // 
             // Btn0
             // 
-            this.Btn0.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Btn0.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn0.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Btn0.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn0.BackgroundImage")));
@@ -167,8 +167,8 @@
             // 
             // PlusButton
             // 
-            this.PlusButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.PlusButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.PlusButton.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.PlusButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("PlusButton.BackgroundImage")));
@@ -186,8 +186,8 @@
             // 
             // Btn3
             // 
-            this.Btn3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Btn3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn3.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Btn3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn3.BackgroundImage")));
@@ -205,8 +205,8 @@
             // 
             // Btn2
             // 
-            this.Btn2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Btn2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn2.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Btn2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn2.BackgroundImage")));
@@ -224,8 +224,8 @@
             // 
             // Btn1
             // 
-            this.Btn1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Btn1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Btn1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn1.BackgroundImage")));
@@ -243,8 +243,8 @@
             // 
             // MinusButton
             // 
-            this.MinusButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.MinusButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.MinusButton.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.MinusButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("MinusButton.BackgroundImage")));
@@ -262,8 +262,8 @@
             // 
             // Btn6
             // 
-            this.Btn6.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Btn6.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn6.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Btn6.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn6.BackgroundImage")));
@@ -281,8 +281,8 @@
             // 
             // Btn5
             // 
-            this.Btn5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Btn5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn5.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Btn5.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn5.BackgroundImage")));
@@ -300,8 +300,8 @@
             // 
             // Btn4
             // 
-            this.Btn4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Btn4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn4.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Btn4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn4.BackgroundImage")));
@@ -319,8 +319,8 @@
             // 
             // MultiplyButton
             // 
-            this.MultiplyButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.MultiplyButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.MultiplyButton.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.MultiplyButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("MultiplyButton.BackgroundImage")));
@@ -338,8 +338,8 @@
             // 
             // Btn9
             // 
-            this.Btn9.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Btn9.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn9.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Btn9.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn9.BackgroundImage")));
@@ -357,8 +357,8 @@
             // 
             // Btn8
             // 
-            this.Btn8.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Btn8.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn8.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Btn8.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn8.BackgroundImage")));
@@ -376,8 +376,8 @@
             // 
             // Btn7
             // 
-            this.Btn7.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Btn7.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn7.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Btn7.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn7.BackgroundImage")));
@@ -395,8 +395,8 @@
             // 
             // DivideButton
             // 
-            this.DivideButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.DivideButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.DivideButton.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.DivideButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("DivideButton.BackgroundImage")));
@@ -414,8 +414,8 @@
             // 
             // DelButton
             // 
-            this.DelButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.DelButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.DelButton.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.DelButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("DelButton.BackgroundImage")));
@@ -433,8 +433,8 @@
             // 
             // CEButton
             // 
-            this.CEButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.CEButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.CEButton.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.CEButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("CEButton.BackgroundImage")));

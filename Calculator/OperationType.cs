@@ -11,6 +11,6 @@ namespace Calculator
         Add,
         Minus,
         Divide,
-        Multipy
+        Multiply
     }
 }
