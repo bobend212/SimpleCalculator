@@ -8,3 +8,13 @@ M:\VisualStudioProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.ex
 M:\VisualStudioProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
 M:\VisualStudioProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.MainFrame.resources
 M:\VisualStudioProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+M:\VisualStudioProjects\!OldProjects\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+M:\VisualStudioProjects\!OldProjects\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+M:\VisualStudioProjects\!OldProjects\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+M:\VisualStudioProjects\!OldProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+M:\VisualStudioProjects\!OldProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.MainFrame.resources
+M:\VisualStudioProjects\!OldProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+M:\VisualStudioProjects\!OldProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+M:\VisualStudioProjects\!OldProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+M:\VisualStudioProjects\!OldProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+M:\VisualStudioProjects\!OldProjects\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
